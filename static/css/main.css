@@ -1,0 +1,20 @@
+body {
+    width: 100%;
+}
+
+
+
+#game {}
+
+.chunk {}
+
+
+
+/* 最大宽度 */
+
+@media screen and ( min-width: 54rem) {
+    body {
+        max-width: 54rem;
+        margin: 0 auto;
+    }
+}
